@@ -1,0 +1,14 @@
+.round-corner {
+    border-radius: 8px;
+}
+
+.dark-border {
+    border: 2px;
+    border-style: solid;
+    border-color: #121F1F;
+}
+
+.header-img {
+    width: 128px;
+    height: 128px;
+}
